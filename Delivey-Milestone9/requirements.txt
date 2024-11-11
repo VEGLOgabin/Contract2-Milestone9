@@ -1,0 +1,6 @@
+scrapy 
+pydispatcher
+beautifulsoup4
+playwright
+scrapy-playwright
+lxml
